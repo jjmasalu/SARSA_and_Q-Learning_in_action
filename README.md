@@ -6,6 +6,10 @@
 
 This project provides a video implementation/explanation of two popular model-free reinforcement learning algorithms: SARSA and Q-Learning. Both algorithms are used to find the optimal policy in a Markov Decision Process (MDP).
 
+**Getting started**
+------------------
+To view a video implementation of the algorithms in work, download the video file in the project
+
 **Background**
 -------------
 
@@ -49,12 +53,3 @@ SARSA updates its Q-values based on the action actually taken by the current pol
 * Finding the fastest route home (analogy)
 * Solving a Markov Decision Process (MDP)
 
-**Contributing**
---------------
-
-Contributions are welcome! If you'd like to add a new feature or algorithm, please submit a pull request.
-
-**License**
-----------
-
-This project is licensed under the MIT License.
