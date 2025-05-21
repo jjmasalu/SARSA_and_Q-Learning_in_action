@@ -8,7 +8,7 @@ This project provides a video implementation/explanation of two popular model-fr
 
 **Getting started**
 ------------------
-To view a video implementation of the algorithms in work, download the video file in the project
+To view a video implementation of the algorithms in work, follow tyhis link https://youtu.be/Crmab7WiTFs
 
 **Background**
 -------------
